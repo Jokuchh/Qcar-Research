@@ -6,6 +6,8 @@ And of course some details about it
 # Research
 [Qcar_Lab.pdf](https://github.com/Jokuchh/Control-of-Mobile-Robots/files/8840370/Qcar_Lab.pdf)
 
+![image](https://user-images.githubusercontent.com/92337987/172062489-ff437165-1c1b-440b-b80d-b4c4694e796f.png)
+
 
 # Screen_360_Vision
 ![Screen_360_Vision](https://user-images.githubusercontent.com/92337987/172060926-d1a67bc8-a79a-483f-b189-066107c6f390.PNG)
